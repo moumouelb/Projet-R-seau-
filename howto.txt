@@ -1,0 +1,6 @@
+1. ouvrez terminal et placez vous dans le dossier du programme
+2. executer la commande make all
+3. une fois la fenetre ouverte, appuyez sur File, puis open, puis choisissez la trame à analyser.
+4. les trames contenu dans votre fichier seront affichez dans la colonne à gauche de votre fenetre
+5. cliquez sur la trame souhaitée pour voir son analyse ( si la trame est colorée en rouge le programme indiquera la ligne qui a causé l'erreur )
+6. fermer la fenetre via File, Exit
